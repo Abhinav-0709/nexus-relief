@@ -1,0 +1,6 @@
+streamlit
+pydeck
+google-generativeai
+python-dotenv
+pandas
+numpy
