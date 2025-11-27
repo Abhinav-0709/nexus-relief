@@ -3,7 +3,9 @@
 **A Collaborative AI System for Humanitarian Logistics**
 *Built for the Kaggle 5-Day Agents Intensive Capstone*
 
-![Project Screenshot](screenshot.png) *(Add your screenshot here later)*
+![Project Screenshot]
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## 📖 The Problem
 In disaster scenarios (wildfires, floods), decision-making is the bottleneck. Human dispatchers are overwhelmed by data. **Nexus Relief** solves this by creating an **Autonomous Hive Mind** that manages a fleet of drones to extinguish fires and rescue survivors efficiently.
