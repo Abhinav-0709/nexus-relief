@@ -1,7 +1,6 @@
 # 🚁 Nexus Relief: Autonomous Multi-Agent Disaster Response
 
 **A Collaborative AI System for Humanitarian Logistics**
-*Built for the Kaggle 5-Day Agents Intensive Capstone*
 
 ![Project Screenshot]
 ![alt text](image.png)
